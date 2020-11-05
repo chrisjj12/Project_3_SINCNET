@@ -1,5 +1,10 @@
 ### I DONT OWN RIGHTS, this is for class project use purposes only
 
+Phase 1- Ran SINCnet to reproduce expected results
+
+Phase 2- Analyzed the signal classification for DNN in the the phase_2 folder containing a .rtfd file and two images
+
+
 # SincNet
 SincNet is a neural architecture for processing **raw audio samples**. It is a novel Convolutional Neural Network (CNN) that encourages the first convolutional layer to discover more **meaningful filters**. SincNet is based on parametrized sinc functions, which implement band-pass filters.
 
