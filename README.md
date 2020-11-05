@@ -1,4 +1,4 @@
-### I DON"T OWN RIGHTS, this is for class project use purposes only
+### I DONT OWN RIGHTS, this is for class project use purposes only
 
 # SincNet
 SincNet is a neural architecture for processing **raw audio samples**. It is a novel Convolutional Neural Network (CNN) that encourages the first convolutional layer to discover more **meaningful filters**. SincNet is based on parametrized sinc functions, which implement band-pass filters.
