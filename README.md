@@ -1,4 +1,4 @@
-### I DONT OWN RIGHTS, this is for class project use purposes only
+### I DON'T OWN RIGHTS, this is for class project use purposes only
 
 Phase 1- Ran SINCnet to reproduce expected results
 
