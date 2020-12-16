@@ -1,3 +1,5 @@
+Same text written in .rtfd file, but easier to read in this text file. Please reference the .rtfd file and the pictures as well.
+
 Upon looking at the signal classification of SINCNET it is clear that the performance of SINCNet compared to DNN-MFCC approach has proved to be more efficient. 
 For Speaker Identification, DNN-MFCC Timit value is 0.99 and the LibriSpeech value is 2.02. While SINCNET has a TIMIT value of 0.85 and a LibriSpeech value of 0.96.
 When observing Speaker Verification, DNN-MFCC d-vector value is 0.88, while the SINCNET value is 0.51. 
