@@ -1,0 +1,6 @@
+Upon looking at the signal classification of SINCNET it is clear that the performance of SINCNet compared to DNN-MFCC approach has proved to be more efficient. 
+For Speaker Identification, DNN-MFCC Timit value is 0.99 and the LibriSpeech value is 2.02. While SINCNET has a TIMIT value of 0.85 and a LibriSpeech value of 0.96.
+When observing Speaker Verification, DNN-MFCC d-vector value is 0.88, while the SINCNET value is 0.51. 
+However, DNNs have speech enhancement, speech recognition, and acoustic scene analysis that work together in a non-linear cycle which means there is 
+improved matching and full-communication. Through experiments, it was found that a cooperative network of DNN was more efficient and better compared to a 
+single DNN by being able to eliminate noise. The visual will be shown below.
